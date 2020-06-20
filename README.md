@@ -2,7 +2,7 @@
 ### Description
 Prediction of survivals on the Titanic based on age, gender, fare and pclass using different Machine Learning algorithms and estimation of best one with best parameters.
 
-Python libraries used :
+### Python libraries used
 
 1. Pandas
 2. Scikit-learn
