@@ -8,3 +8,9 @@ Prediction of survivals on the Titanic based on age, gender, fare and pclass usi
 2. Scikit-learn
 3. Seaborn
 4. Matplotlib
+
+
+### Get in touch
+<a href =  "aniketsinha06.github.io">Portfolio</a></br>
+<a href =  "https://www.linkedin.com/in/aniket-sinha">LinkedIn</a></br>
+<a href =  "github.com/aniketsinha06">Github</a></br>
